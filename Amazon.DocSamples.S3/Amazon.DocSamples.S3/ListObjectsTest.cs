@@ -10,8 +10,8 @@ namespace Amazon.DocSamples.S3
 {
     class ListObjectsTest
     {
-        const string accessKeyId = "DEBE17652FAC682250B128F105AA6CB4";
-        const string accessKeySecret = "5AC4E00FF0D5CE60ABDF0CFD15B207A5";
+        const string accessKeyId = "#################################";
+        const string accessKeySecret = "#################################";
         const string endpoint = "https://s3.cn-east-2.jdcloud-oss.com";
 
         private const string bucketName = "s3fs-test";
